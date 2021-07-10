@@ -1,0 +1,67 @@
+body{
+    padding-top: 800px;
+    margin: 0;
+}
+.profile{
+    width: 300px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+#welcome{
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #FFFFFF;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background:linear-gradient  (#0df5ea  0%,#0cf57d 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    opacity: 0.83;
+        
+}
+.parallex-inner{
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+h1{
+ font-size: 40px;
+    line-height: 1.6;
+    font-family: cursive;
+    font-weight:300;
+}
+h2{
+ font-size: 40px;
+    line-height: 1.6;
+    font-family:sans-serif;
+    font-weight:300;
+}
+#name{
+    font-size: 30px;
+    font-family: fantasy;
+    line-height: 1.4;
+}
+#bio{
+    text-align: center;
+    padding:50px;
+    font-size: 45px;
+    
+}
+.line{
+    height:10px;
+   background-color: cornflowerblue;
+    width:40%;
+    margin:8px;
+    
+}
+p{
+    width: 450px;
+    margin:25px;
+    font-size: 25px;
+    line-height: 1.3;
+}
